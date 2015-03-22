@@ -17,6 +17,8 @@ layout: article
 
 ### Fitting
 
+### Regression
+
 ### Entropy
 
 ### Histograms
@@ -25,4 +27,4 @@ layout: article
 
 ### Fast Fourier Transformation
 
-
+### Data Visualisation with Envision 
